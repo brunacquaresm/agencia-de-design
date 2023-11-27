@@ -7,7 +7,7 @@ Este projeto é uma aplicação web desenvolvida com React.js e Tailwind CSS par
 - [Objetivo](#objetivo)
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Licença](#licença)
+- [Autor](#autor)
 
 ## Objetivo
 
