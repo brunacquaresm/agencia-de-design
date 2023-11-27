@@ -29,6 +29,6 @@ A estrutura do projeto é organizada da seguinte forma:
 - [React](https://reactjs.org/): Biblioteca JavaScript para construção de interfaces de usuário.
 - [Tailwind CSS](https://tailwindcss.com/): Framework CSS utilitário.
 
-## Licença
+## Autor
 
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+Este projeto foi criado por Brunä Gomes, com base nas especificações fornecidas pela DevMedia.
